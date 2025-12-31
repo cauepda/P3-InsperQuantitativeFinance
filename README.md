@@ -117,20 +117,7 @@ Project3.ipynb
 
 ## 📊 **Visualizations**
 
-<details>
-<summary><b>Dashboard Preview</b></summary>
-
 ![Dashboard](data/oos_dashboard.png)
-
-**Includes:**
-1. Sharpe ratio comparison
-2. Cumulative returns evolution
-3. Drawdown underwater chart
-4. Risk metrics (vol, max DD, turnover)
-5. Transaction cost sensitivity analysis
-6. Summary table with improvements
-
-</details>
 
 ***
 
