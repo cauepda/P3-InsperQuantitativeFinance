@@ -1,6 +1,6 @@
 # 📊 **Factor-Based Portfolio Optimization**
 
-> **Demonstrating covariance estimation for minimum variance portfolios using Fama-French 6-factor model**
+> **Demonstrating covariance estimation for minimum variance portfolios using Fama-French 5-factor model**
 ***
 
 ## 🎯 **Overview**
